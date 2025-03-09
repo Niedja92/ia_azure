@@ -5,16 +5,14 @@
 3. Desafio: utilizar a IA para explorar possíveis padrões, insights e interpretações.
 
 ## 📌 Insights
-- Não pude fazer uma análise demonstrativa com as sentenças estruturadas, pois infelizmente não consegui concluir a assinatura na Azure, mas continuo tentando, conforme a imagem 1 e 2.
-- Consegui experimentar a conversão de fale em texto com 3 áudios diferentes e fiquei impressionada com a questão de pontuações e acentuações das palavras (imagem 3). 
+- Não pude fazer uma análise demonstrativa com as sentenças estruturadas, pois infelizmente não consegui concluir a assinatura na Azure, mas continuo tentando, conforme a imagem 1.
+- Consegui experimentar a conversão de fale em texto com 3 áudios diferentes e fiquei impressionada com a questão de pontuações e acentuações das palavras (imagem 2). 
 
 ## 🖨 Prints
-![alt text](<Captura de tela 2025-03-09 171213.png>)
+![Tentativa de criar um recurso](/images/img_1.png)
 
-![alt text](image.png)
 
-![alt text](image-1.png)
-
+![|Experimentando a IA do Azure](/images/img_2.png)
 
 ## 🔍 Possibilidades Futuras
 - Concluir assinatura Azure.
