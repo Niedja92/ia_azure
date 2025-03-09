@@ -9,10 +9,10 @@
 - Consegui experimentar a conversão de fale em texto com 3 áudios diferentes e fiquei impressionada com a questão de pontuações e acentuações das palavras (imagem 2). 
 
 ## 🖨 Prints
-![Tentativa de criar um recurso](/images/img_1.png)
+![Tentativa de criar um recurso](/Desafio%2001/images/img_1.png)
 
 
-![|Experimentando a IA do Azure](/images/img_2.png)
+![|Experimentando a IA do Azure](/Desafio%2001/images/img_2.png)
 
 ## 🔍 Possibilidades Futuras
 - Concluir assinatura Azure.
