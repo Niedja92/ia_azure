@@ -1,0 +1,11 @@
+Algumas sentenças sobre o uso da IA do Azure:
+
+1. Criei um repositório no GitHub para armazenar os dados e resultados.
+2. Adicionei a pasta `inputs` contendo frases para análise.
+3. Desafio: utilizar a IA para explorar possíveis padrões, insights e interpretações.
+
+O que vem pela frente:
+
+- Concluir assinatura Azure.
+- Expandir a análise para frases mais complexas.
+- Explorar como a IA pode sugerir melhores formas de comunicação.
